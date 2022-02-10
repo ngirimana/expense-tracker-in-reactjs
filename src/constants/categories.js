@@ -23,7 +23,7 @@ export const expenseCategories = [
   { type: 'House', amount: 0, color: expenseColors[6] },
   { type: 'Entertainment', amount: 0, color: expenseColors[7] },
   { type: 'Phone', amount: 0, color: expenseColors[8] },
-  { type: 'Pets', amount: 0, color: expenseColors[9] },
+  { type: 'Rent', amount: 0, color: expenseColors[9] },
   { type: 'Other', amount: 0, color: expenseColors[10] },
 ];
 
